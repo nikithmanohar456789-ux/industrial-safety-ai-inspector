@@ -1,0 +1,4 @@
+python app.py --mode gradio    -->using UI gradio
+python app.py --image sample_factory.jpg --> cmd line way
+
+switch to conda command is ---> conda activate saftey-ai

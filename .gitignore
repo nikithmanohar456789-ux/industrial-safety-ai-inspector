@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+
+# Gradio
+.gradio/
+
+# Images (optional strategy)
+# Ignore all images
+# *.png
+
+# OR keep only sample images:
+# (recommended)
+data/
+temp/

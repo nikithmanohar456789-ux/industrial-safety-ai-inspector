@@ -1,0 +1,7 @@
+crewai
+requests
+Pillow
+gradio
+langchain-groq
+crewai-tools
+litellm
